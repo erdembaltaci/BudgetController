@@ -1,5 +1,5 @@
 ## Bütçe Kontrolcüsü
-Web tabanlı bir uygulama olan Bütçe Kontrolcüsü, HTML, CSS, JAVASCRIPT, MYSQL, BOOTSTRAP VE AJAX teknolojilerini kullanarak web programlama kursu proje ödevi olarak geliştirildi.
+Web tabanlı bir uygulama olan Bütçe Kontrolcüsü, HTML, CSS, JAVASCRIPT, MYSQL, BOOTSTRAP VE AJAX teknolojilerini kullanarak web programlama dersi proje ödevi olarak geliştirildi.
 
 ## Proje Açıklaması
 Bütçe Kontrolcüsü web sitesi ile aylık gelir ve giderlerinizi takip edebilirsiniz. Net bakiyenizi görebilir ve finansal durumunuzu analiz edebilirsiniz.

@@ -11,6 +11,7 @@ Bütçe Kontrolcüsü web sitesi ile aylık gelir ve giderlerinizi takip edebili
 [Proje YouTube Linki](youtube_linki)
 
 ## Ekran Görüntüleri
+![WhatsApp Görsel 2024-05-28 saat 23 58 41_ba2d11d4](https://github.com/erdembaltaci/BudgetController/assets/103959698/bef14397-9dd1-401d-9670-0770b864ca35)
 
 ## Gereksinimler
 

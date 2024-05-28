@@ -12,14 +12,15 @@ Bütçe Kontrolcüsü web sitesi ile aylık gelir ve giderlerinizi takip edebili
 
 ## Ekran Görüntüleri
 ![WhatsApp Görsel 2024-05-28 saat 23 58 41_3b2ae058](https://github.com/erdembaltaci/BudgetController/assets/103959698/ae92b19f-07ac-4933-b6d4-0babd5e6a668)
+
 ![WhatsApp Görsel 2024-05-28 saat 23 59 05_3f6595fc](https://github.com/erdembaltaci/BudgetController/assets/103959698/f2f181c1-f9d6-457b-8dca-f7bb1d9c0709)
+
 ![WhatsApp Görsel 2024-05-28 saat 23 59 18_70824432](https://github.com/erdembaltaci/BudgetController/assets/103959698/9037d9eb-6371-42bb-baee-5ee433dafaaf)
+
 ![WhatsApp Görsel 2024-05-28 saat 23 59 42_ffe24ac6](https://github.com/erdembaltaci/BudgetController/assets/103959698/59c5cacb-fc7a-46ae-bc29-8b43f8fdbc0f)
-![WhatsApp Görsel 2024-05-29 saat 00 00 10_4d25e3e6](https://github.com/erdembaltaci/BudgetController/assets/103959698/e907fa13-7e35-44b5-b058-33c92e89525e)
+
 ![WhatsApp Görsel 2024-05-29 saat 00 00 22_ed9c35d6](https://github.com/erdembaltaci/BudgetController/assets/103959698/68319169-c0a0-4485-84ab-ff34bac9f957)
-![WhatsApp Görsel 2024-05-29 saat 00 00 43_5c765db4](https://github.com/erdembaltaci/BudgetController/assets/103959698/148a4e99-89b9-4c6c-b2b3-0bcaa55df2ac)
-![WhatsApp Görsel 2024-05-29 saat 00 00 59_0be1a641](https://github.com/erdembaltaci/BudgetController/assets/103959698/a3c0262f-9a46-46bd-9662-2d1fc825a48b)
-![WhatsApp Görsel 2024-05-29 saat 00 01 09_e5101de7](https://github.com/erdembaltaci/BudgetController/assets/103959698/7b112880-7b20-4657-8766-9e338de8ea20)
+
 ![WhatsApp Görsel 2024-05-29 saat 00 01 24_6412ec48](https://github.com/erdembaltaci/BudgetController/assets/103959698/4f6fd3ef-7d75-426d-a31d-a51e3f44a15c)
 
 
@@ -57,7 +58,7 @@ Bütçe Kontrolcüsü web sitesi ile aylık gelir ve giderlerinizi takip edebili
      ```
 
 6. **Projeyi Çalıştırma**
-   - Tarayıcınızda `http://localhost/index.html` adresine gidin.
+   - Tarayıcınızda `http://localhost/public_html` adresine gidin.
    - Uygulamayı kullanmaya başlayın.
 
 ## Kullanım

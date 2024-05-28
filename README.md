@@ -56,7 +56,7 @@ http://budgetcontroller.com.tr/
 
 ## İletişim
 
-Herhangi bir sorunuz olursa, [ah2m1et@gmail.com](mailto:ah2m1et@gmail.com) adresine e-posta gönderin.
+Herhangi bir sorunuz olursa, [ah2m1et@gmail.com](mailto:erdembaltaci5609@gmail.com) adresine e-posta gönderin.
 
 ## Lisans
 

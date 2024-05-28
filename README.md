@@ -11,12 +11,23 @@ Bütçe Kontrolör web sitesi ile aylık gelir ve giderlerinizi takip edebilirsi
 [Proje YouTube Linki](youtube_linki)
 
 ## Ekran Görüntüleri
+#Ana sayfa
 ![image](https://github.com/erdembaltaci/BudgetController/assets/103959698/625142c2-88b4-4427-b5cc-b19866428161)
 
+#Kayıt sayfası
+![image](https://github.com/erdembaltaci/BudgetController/assets/103959698/4d76eff6-8830-4b0c-8d7f-b38fba69aa22)
+
+#Giriş sayfası
+![image](https://github.com/erdembaltaci/BudgetController/assets/103959698/8c786099-95f0-4d04-8373-95830f797e9f)
+
+
+#Kullanıcı paneli
 ![image](https://github.com/erdembaltaci/BudgetController/assets/103959698/3bd25ffd-1d6f-4dc8-8144-1dc4e2674614)
 
+#Gelir-gider verilerinin listelenmesi
 ![image](https://github.com/erdembaltaci/BudgetController/assets/103959698/d19396c3-32dd-4f75-bdd3-7fd195e94a69)
 
+#Gelir- gider ekleme
 ![image](https://github.com/erdembaltaci/BudgetController/assets/103959698/1f8abd8c-5fb2-43c0-8033-6beb1fb427bb)
 
 

@@ -40,7 +40,7 @@ http://budgetcontroller.com.tr/
    - Klonladığınız proje klasörünü XAMPP htdocs dizinine taşıyın (örn. `C:\xampp\htdocs\public_html`).
 
 5. **Veritabanı Bağlantısını Ayarlama**
-   - `includes/db.php` dosyasını açın.
+   - `db_connect1.php` dosyasını açın.
    - Veritabanı bağlantı bilgilerinizi aşağıdaki gibi düzenleyin:
      ```php
      $connection = new mysqli('localhost', 'root', '', 'budgetcontrol');

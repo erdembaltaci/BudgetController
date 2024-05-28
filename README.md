@@ -1,17 +1,16 @@
-## BudgetController
-I developed this web-based application using HTML, CSS, JAVASCRIPT, MYSQL, BOOTSTRAP AND AJAX technologies as part of the web programming course project assignment.
+## Bütçe Kontrolcüsü
+Web tabanlı bir uygulama olan Bütçe Kontrolcüsü, HTML, CSS, JAVASCRIPT, MYSQL, BOOTSTRAP VE AJAX teknolojilerini kullanarak web programlama kursu proje ödevi olarak geliştirildi.
 
-## Project Description
-You can track your monthly expenses and income with the Budget Controller website. You can see your net balance and analyze your financial situation.
+## Proje Açıklaması
+Bütçe Kontrolcüsü web sitesi ile aylık gelir ve giderlerinizi takip edebilirsiniz. Net bakiyenizi görebilir ve finansal durumunuzu analiz edebilirsiniz.
 
-## Project Link(Website link)
-http://budgetcontroller.com.tr/
+## Proje Bağlantısı
+[http://budgetcontroller.com.tr/](http://budgetcontroller.com.tr/)
 
-## Project Youtube Demo Video 
+## Proje YouTube Demo Videosu
 [Proje YouTube Linki](youtube_linki)
 
 ## Ekran Görüntüleri
-
 
 ## Gereksinimler
 
@@ -52,12 +51,12 @@ http://budgetcontroller.com.tr/
 
 ## Kullanım
 
-- **Kullanıcı girişi:** Giriş yaparak sipariş oluşturabilir veya yeni bir kullanıcı kaydı oluşturabilirsiniz.
+- **Üye Ol:** Siteye üye olarak yeni hesap oluşturup daha sonra giriş yaparak siteyi kullanmaya başlayabilirsiniz. Gelir ve gider ekleyebilir, bunları listeleyip düzenleme ve silme işlemleri yapabilirsiniz. Tüm bunları aylara göre kategorilendirilmiş şekilde görerek aylık finans takibi yapabilirsiniz.
 
 ## İletişim
 
-Herhangi bir sorunuz olursa, [erdembaltaci5609@gmail.com](mailto:erdembaltaci5609@gmail.com) adresine e-posta gönderin.
+Herhangi bir sorunuz olursa, [erdembaltaci5609@gmail.com](mailto:erdembaltaci5609@gmail.com) adresine e-posta gönderebilirsiniz.
 
 ## Lisans
 
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
+Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.

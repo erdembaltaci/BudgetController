@@ -16,18 +16,21 @@ Bütçe Kontrolcüsü web sitesi ile aylık gelir ve giderlerinizi takip edebili
 
 
 
+
+
     
 ![WhatsApp Görsel 2024-05-28 saat 23 59 05_3f6595fc](https://github.com/erdembaltaci/BudgetController/assets/103959698/f2f181c1-f9d6-457b-8dca-f7bb1d9c0709)
 
 
-
-![WhatsApp Görsel 2024-05-28 saat 23 59 18_70824432](https://github.com/erdembaltaci/BudgetController/assets/103959698/9037d9eb-6371-42bb-baee-5ee433dafaaf)
 
 
 
 
 
 ![WhatsApp Görsel 2024-05-28 saat 23 59 42_ffe24ac6](https://github.com/erdembaltaci/BudgetController/assets/103959698/59c5cacb-fc7a-46ae-bc29-8b43f8fdbc0f)
+
+
+
 
 
 

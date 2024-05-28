@@ -5,7 +5,7 @@ I developed this web-based application using HTML, CSS, JAVASCRIPT, MYSQL, BOOTS
 You can track your monthly expenses and income with the Budget Controller website. You can see your net balance and analyze your financial situation.
 
 ## Project Link(Website link)
-budgetcontroller.com.tr
+[Proje Linki](budgetcontroller.com.tr)
 
 ## Project Youtube Demo Video 
 [Proje YouTube Linki](youtube_linki)

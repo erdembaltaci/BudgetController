@@ -4,7 +4,7 @@ Bu web tabanlı projeyi web tabanlı programlama dersi proje ödevi kapsamında 
 ## Proje Açıklaması
 Bütçe Kontrolör web sitesi ile aylık gelir ve giderlerinizi takip edebilirsiniz. Net bakiyenizi görebilir ve finansal durumunuzu analiz edebilirsiniz.
 
-## Proje Bağlantısı
+## Proje Bağlantısı(Web site)
 [http://budgetcontroller.com.tr/](http://budgetcontroller.com.tr/)
 
 ## Proje YouTube Demo Videosu

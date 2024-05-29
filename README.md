@@ -8,7 +8,7 @@ Bütçe Kontrolör web sitesi ile aylık gelir ve giderlerinizi takip edebilirsi
 [http://budgetcontroller.com.tr/](http://budgetcontroller.com.tr/)
 
 ## Proje YouTube Demo Videosu
-[Proje YouTube Linki](youtube_linki)
+https://youtu.be/TE7B_UyG3_A
 
 ## Ekran Görüntüleri
 #Ana sayfa

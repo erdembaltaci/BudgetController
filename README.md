@@ -1,4 +1,4 @@
-## Bütçe Kontrolör
+## Bütçe Kontrolcüsü
 Bu web tabanlı projeyi web tabanlı programlama dersi proje ödevi kapsamında HTML, CSS, JAVASCRIPT, MYSQL, BOOTSTRAP VE AJAX teknolojilerini kullanarak geliştirdim.
 
 ## Proje Açıklaması
